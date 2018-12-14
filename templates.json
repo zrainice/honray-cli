@@ -1,0 +1,12 @@
+{
+    "tpl": {},
+    "template": {
+        "web/init": {
+            "title": "web/init",
+            "git": "http://gitlab.honray.cc/basedev/superview.git#base",
+            "desc": "PC 平台项目初始化",
+            "thirdPath": "./src/components/ThirdPart",
+            "isSaveRootGit": false
+        }
+    }
+}

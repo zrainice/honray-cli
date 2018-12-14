@@ -1,0 +1,26 @@
+{
+  "name": "honray-cli",
+  "version": "2.0.0",
+  "description": "第三方定制脚手架",
+  "main": "index.js",
+  "bin": {
+    "honray": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "fs-extra": "^7.0.1",
+    "inquirer": "^6.2.0",
+    "log-symbols": "^2.2.0",
+    "nodegit": "^0.23.0",
+    "ora": "^3.0.0",
+    "shelljs": "^0.8.3"
+  },
+  "author": "雨鱼",
+  "license": "ISC"
+}
