@@ -1,6 +1,6 @@
 {
   "name": "honray-cli",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "第三方定制脚手架",
   "main": "index.js",
   "bin": {
@@ -20,6 +20,18 @@
     "ora": "^3.0.0",
     "shelljs": "^0.8.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrainice/honray-cli.git"
+  },
+  "keywords": [
+    "honray",
+    "honray-cli"
+  ],
   "author": "雨鱼",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrainice/honray-cli/issues"
+  },
+  "homepage": "https://github.com/zrainice/honray-cli#readme"
 }
