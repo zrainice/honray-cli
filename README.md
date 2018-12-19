@@ -1,15 +1,15 @@
-##安装
+## 安装
 
-####window安装(请使用管理员权限打开命令行)
+#### window安装(请使用管理员权限打开命令行)
 ```
 npm install -g honray-cli
 ```
-####linux / mac 安装
+#### linux / mac 安装
 ```
 sudo install -g honray-cli
 ```
 
-##使用
+## 使用
 #### 初始化项目
 ```
 honray init <name> [template]
