@@ -7,18 +7,23 @@
     "honray": "./bin/index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "autod": "autod"
   },
   "dependencies": {
     "adm-zip": "^0.4.13",
+    "autod": "^3.1.0",
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
     "fs-extra": "^7.0.1",
+    "fstream": "^1.0.12",
     "inquirer": "^6.2.0",
+    "lodash": "^4.17.15",
     "log-symbols": "^2.2.0",
-    "nodegit": "^0.23.0",
+    "nodegit": "^0.26.3",
     "ora": "^3.0.0",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.3",
+    "tar": "^5.0.5"
   },
   "repository": {
     "type": "git",
