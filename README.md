@@ -1,12 +1,22 @@
 ## 安装
 
-#### window安装(请使用管理员权限打开命令行)
+#### window 安装(请使用管理员权限打开命令行)
 ```
 npm install -g honray-cli
 ```
 #### linux / mac 安装
 ```
-sudo install -g honray-cli
+sudo npm install -g honray-cli
+```
+
+## 使用 yarn 安装
+#### window 安装 (请使用管理员权限打开命令行)
+```
+yarn global add honray-cli
+```
+#### linux / mac 安装
+```
+sudo yarn global add honray-cli
 ```
 
 ## 使用
