@@ -1,7 +1,7 @@
 {
   "name": "honray-cli",
-  "version": "2.0.6",
-  "description": "第三方定制脚手架",
+  "version": "3.0.0",
+  "description": "多 Git 项目管理",
   "main": "index.js",
   "bin": {
     "honray": "./bin/index.js"
@@ -11,19 +11,15 @@
     "autod": "autod"
   },
   "dependencies": {
-    "adm-zip": "^0.4.13",
-    "autod": "^3.1.0",
-    "chalk": "^2.4.1",
-    "commander": "^2.19.0",
-    "fs-extra": "^7.0.1",
-    "fstream": "^1.0.12",
+    "adm-zip": "^0.5.1",
+    "autod": "^3.1.1",
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "fs-extra": "^9.0.1",
     "inquirer": "^6.2.0",
-    "lodash": "^4.17.15",
-    "log-symbols": "^2.2.0",
-    "nodegit": "^0.26.3",
-    "ora": "^3.0.0",
-    "shelljs": "^0.8.3",
-    "tar": "^5.0.5"
+    "log-symbols": "^4.0.0",
+    "nodegit": "^0.27.0",
+    "ora": "^3.0.0"
   },
   "repository": {
     "type": "git",
